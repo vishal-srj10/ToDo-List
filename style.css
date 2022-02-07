@@ -1,0 +1,38 @@
+body{
+	background-image: linear-gradient(to right,rgb(109, 204, 221) ,rgba(255,0,0,0));
+}
+.h101{ 
+    color:rgb(204, 10, 10); 
+    font-size: 3cm; 
+    font-weight: bold;
+    border: transparent;
+    text-shadow: 15px 15px  black;
+    font-family:Apple Chancery, cursive;
+} 
+
+p{
+	border-radius: 8px;
+	width: 500px;
+	padding: 5px;
+	font-weight: bold;
+	border: 0.5px solid black;
+}
+
+p > button {
+    float: right;
+	background-color: transparent;
+	border: transparent;
+	
+}
+
+input {
+	border-radius: 8px;
+	width: 500px;
+	padding: 5px;
+	background-color:lightgrey;
+}
+
+#cd01{
+    border: transparent;
+	background-image: linear-gradient(to right, rgba(255,0,0,0), rgb(3, 1, 19));
+}
